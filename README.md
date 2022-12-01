@@ -1,3 +1,2 @@
 # MyProject
-Hello from Karakol 🚀
-Student from Karakol)
+please allow to animation sher
