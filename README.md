@@ -2,4 +2,4 @@
 Hello from Karakol 🚀
 Student from Karakol)
 
-Hello grom Naryn
+Hello from Naryn
