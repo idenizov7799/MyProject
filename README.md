@@ -1,4 +1,1 @@
-# MyProject
-
-# Hello from Karakol 🚀
-# Student from Karakol 🚀
+https://elkhan2003.github.io/OJJO/
