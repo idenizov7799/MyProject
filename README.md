@@ -1,0 +1,2 @@
+# MyProject
+Hello from Karakol 🚀
