@@ -1,0 +1,7 @@
+h2{
+    color: tomato;
+}
+p:nth-child(3){
+    font-size: 50px;
+    color: aquamarine;
+}
